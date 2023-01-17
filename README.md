@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHUB](https://github.com/DekhanFraser/FM-NB-Product-preview-card-component)
+- Live Site URL: [Netlify](https://profound-starburst-8b69f6.netlify.app/)
 
 ## My process
 
