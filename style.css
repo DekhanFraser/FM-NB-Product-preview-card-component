@@ -102,7 +102,7 @@ body {
 
     display: grid;
     place-content: center;
-    margin: 1rem;
+    padding: 1rem;
 }
 
 /* utility */
@@ -122,6 +122,14 @@ body {
     overflow: hidden;
     position: absolute;
     white-space: nowrap;
+}
+
+.attribution {
+	position: absolute;
+	z-index: 10;
+	left: 50%;
+	bottom: 1%;
+	transform: translate(-50%, -50%);
 }
 
 /* button */
